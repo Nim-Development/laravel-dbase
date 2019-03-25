@@ -4,8 +4,15 @@ A laravel gui tool for quickly making and migrating database migrations.
 1.Install:
 composer require nimdevelopment/laravel-dbase
 
-2.Publish:
+2. Add Serviceprovider:
+NimDevelopment\DBase\DBaseServiceProvider::class,
+
+3. Add Facade:
+'DBase' => NimDevelopment\DBase\Facades\DBase::class,
+
+4.Publish:
 php artisan vendor:publish
+
 
 You will find the GUI tool under route /DBase : 
 
