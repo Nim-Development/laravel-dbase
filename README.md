@@ -1,8 +1,11 @@
 # laravel-dbase
 A laravel gui tool for quickly making and migrating database migrations.
 
-1. Install: composer require nimdevelopment/laravel-dbase
-2. Publish: php artisan vendor:publish
+1. Install:
+composer require nimdevelopment/laravel-dbase
+
+2.
+Publish: php artisan vendor:publish
 
 You will find the GUI tool under route /DBase : 
 
