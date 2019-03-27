@@ -16,4 +16,4 @@ php artisan vendor:publish
 
 You will find the GUI tool under route /DBase : 
 
-![Alt text](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 "Test")
+![Alt text](https://project6.nimdevelopment.com/storage/upload/Screen%20Shot%202019-03-27%20at%201.15.18%20PM.png "Test")
